@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#propiedadesVentaIndex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+    gap: 20px;
+}
+
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
